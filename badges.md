@@ -26,7 +26,7 @@ https://simpleicons.org/
 Simple Icons slugs: https://github.com/simple-icons/simple-icons/blob/master/slugs.md
 
 ## examples
-Docker  
+Docker, Thymeleaf  
 Java, Java ME, VRML97, VBA  
 ![](https://img.shields.io/badge/JavaScript-707070?style=plastic&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Spring%20Boot-707070?style=plastic&logo=springboot&logoColor=6DB33F)
