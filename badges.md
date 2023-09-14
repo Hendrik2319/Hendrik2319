@@ -28,6 +28,8 @@ Simple Icons slugs: https://github.com/simple-icons/simple-icons/blob/master/slu
 ## examples
 Thymeleaf  
 Java, Java ME, VRML97, VBA  
+
+gray background, specified color  
 ![](https://img.shields.io/badge/Spring%20Boot-707070?style=plastic&logo=springboot&logoColor=6DB33F)
 ![](https://img.shields.io/badge/Spring-707070?style=plastic&logo=spring&logoColor=6DB33F)
 ![](https://img.shields.io/badge/Android-707070?style=plastic&logo=android&logoColor=3DDC84)
@@ -37,8 +39,8 @@ Java, Java ME, VRML97, VBA
 ![](https://img.shields.io/badge/Eclipse-707070?style=plastic&logo=eclipseide&logoColor=2C2255)
 ![](https://img.shields.io/badge/VSCode-707070?style=plastic&logo=visualstudiocode&logoColor=007ACC)
 ![](https://img.shields.io/badge/IntelliJ%20IDEA-707070?style=plastic&logo=intellijidea&logoColor=000000)
-![](https://img.shields.io/badge/Git-707070?style=plastic&logo=git&logoColor=#F05032)
-![](https://img.shields.io/badge/Github-707070?style=plastic&logo=github&logoColor=#181717)
+![](https://img.shields.io/badge/Git-707070?style=plastic&logo=git&logoColor=F05032)
+![](https://img.shields.io/badge/Github-707070?style=plastic&logo=github&logoColor=181717)
 ![](https://img.shields.io/badge/SVN-707070?style=plastic&logo=subversion&logoColor=809CC9)
 ![](https://img.shields.io/badge/Docker-707070?style=plastic&logo=docker&logoColor=2496ED)
 ![](https://img.shields.io/badge/Markdown-707070?style=plastic&logo=markdown&logoColor=000000)
@@ -49,11 +51,39 @@ Java, Java ME, VRML97, VBA
 ![](https://img.shields.io/badge/Bootstrap-707070?style=plastic&logo=bootstrap&logoColor=7952B3)
 ![](https://img.shields.io/badge/WordPress-707070?style=plastic&logo=wordpress&logoColor=21759B)
 ![](https://img.shields.io/badge/Thymeleaf-707070?style=plastic&logo=thymeleaf&logoColor=005F0F)
-![](https://img.shields.io/badge/gimp-707070?style=plastic&logo=gimp&logoColor=#5C5543)
+![](https://img.shields.io/badge/gimp-707070?style=plastic&logo=gimp&logoColor=5C5543)
 ![](https://img.shields.io/badge/Codewars-707070?style=plastic&logo=codewars&logoColor=B1361E)
 ![](https://img.shields.io/badge/Steam-707070?style=plastic&logo=steam&logoColor=000000)
 ![](https://img.shields.io/badge/C64-707070?style=plastic&logo=commodore&logoColor=1E2A4E)
 
+gray background, NO specified color  
+![](https://img.shields.io/badge/Spring%20Boot-707070?style=plastic&logo=springboot)
+![](https://img.shields.io/badge/Spring-707070?style=plastic&logo=spring)
+![](https://img.shields.io/badge/Android-707070?style=plastic&logo=android)
+![](https://img.shields.io/badge/C++-707070?style=plastic&logo=cplusplus)
+![](https://img.shields.io/badge/PL/SQL-707070?style=plastic&logo=oracle)
+![](https://img.shields.io/badge/Python-707070?style=plastic&logo=python)
+![](https://img.shields.io/badge/Eclipse-707070?style=plastic&logo=eclipseide)
+![](https://img.shields.io/badge/VSCode-707070?style=plastic&logo=visualstudiocode)
+![](https://img.shields.io/badge/IntelliJ%20IDEA-707070?style=plastic&logo=intellijidea)
+![](https://img.shields.io/badge/Git-707070?style=plastic&logo=git)
+![](https://img.shields.io/badge/Github-707070?style=plastic&logo=github)
+![](https://img.shields.io/badge/SVN-707070?style=plastic&logo=subversion)
+![](https://img.shields.io/badge/Docker-707070?style=plastic&logo=docker)
+![](https://img.shields.io/badge/Markdown-707070?style=plastic&logo=markdown)
+![](https://img.shields.io/badge/php-707070?style=plastic&logo=php)
+![](https://img.shields.io/badge/JavaScript-707070?style=plastic&logo=javascript)
+![](https://img.shields.io/badge/HTML-707070?style=plastic&logo=html5)
+![](https://img.shields.io/badge/CSS-707070?style=plastic&logo=css3)
+![](https://img.shields.io/badge/Bootstrap-707070?style=plastic&logo=bootstrap)
+![](https://img.shields.io/badge/WordPress-707070?style=plastic&logo=wordpress)
+![](https://img.shields.io/badge/Thymeleaf-707070?style=plastic&logo=thymeleaf)
+![](https://img.shields.io/badge/gimp-707070?style=plastic&logo=gimp)
+![](https://img.shields.io/badge/Codewars-707070?style=plastic&logo=codewars)
+![](https://img.shields.io/badge/Steam-707070?style=plastic&logo=steam)
+![](https://img.shields.io/badge/C64-707070?style=plastic&logo=commodore)
+
+colorized background, white logo  
 ![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)
@@ -86,3 +116,5 @@ Java, Java ME, VRML97, VBA
 ![JavaScript](https://img.shields.io/badge/JavaScript-707070?style=plastic&logo=javascript&logoColor=F7DF1E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-707070?style=plastic&logo=javascript&logoColor=F7DF1E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-707070?style=plastic&logo=javascript&logoColor=F7DF1E)
+![SVG](https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)
+![SVG](https://img.shields.io/badge/playstation-red?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)
