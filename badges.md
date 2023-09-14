@@ -26,7 +26,6 @@ https://simpleicons.org/
 Simple Icons slugs: https://github.com/simple-icons/simple-icons/blob/master/slugs.md
 
 ## examples
-Thymeleaf  
 Java, Java ME, VRML97, VBA  
 
 gray background, specified color  
