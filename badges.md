@@ -100,6 +100,7 @@ colorized background, white logo
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)]()
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-707070?style=plastic&logo=javascript&logoColor=F7DF1E)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white)]()
 [![php](https://img.shields.io/badge/php-777BB4?style=plastic&logo=php&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white)]()
